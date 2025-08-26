@@ -1,5 +1,7 @@
 # Streamlit Mistral 7B GPT - RAG-Powered Virtual Assistant
 
+![Alt text](img.png)
+
 ## Project Description
 
 This project showcases a production-ready virtual assistant built with Retrieval-Augmented Generation (RAG) architecture, leveraging the powerful Mistral 7B language model. Originally developed to streamline client onboarding processes for an $11B enterprise client, this solution demonstrates advanced AI implementation that achieved a 45% reduction in onboarding time through intelligent document processing and contextual query handling.
